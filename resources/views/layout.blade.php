@@ -9,8 +9,8 @@
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
-    <link href="{{ asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+    <link href="{{ asset('assets/img/logo.png') }}" rel="icon">
+    <link href="{{ asset('assets/img/logo.png') }}" rel="touch-icon">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -46,6 +46,7 @@
             <a href="/" class="logo d-flex align-items-center me-auto">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
                 <!-- <img src="assets/img/logo.png" alt=""> -->
+                <img src="assets/img/logo.png" alt="BMA Lights">
                 <h1 class="sitename">BMA Lights</h1>
                 <span>.</span>
             </a>
