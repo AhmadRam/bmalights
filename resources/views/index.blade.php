@@ -472,12 +472,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-1.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>App 1</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Cepheus</h4>
+                                <p>The light directed downwards from these shielded pendant luminaires is shielded to the
+                                    outside by a cylindrical luminaire housing.</p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-1.jpg" title="App 1"
                                     data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -486,12 +487,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-2.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>Product 1</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Asio</h4>
+                                <p>Asio are floodlights with very compact dimensions and minimalist design that blend
+                                    discretely into the architecture. </p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-2.jpg" title="Product 1"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -500,12 +502,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-3.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>Branding 1</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Ardea</h4>
+                                <p>Counter edge-lit series under cabinet lights bring the light quality of Fulmar downlight
+                                    on to the counter top.</p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-3.jpg" title="Branding 1"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -514,12 +517,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-4.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>App 2</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Mirach</h4>
+                                <p>The slightly bent aluminum screen gives a discreet and floating expression at the same
+                                    time as it clearly controls the light down on the work surface.</p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-4.jpg" title="App 2"
                                     data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -528,12 +532,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>Product 2</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Rissa</h4>
+                                <p>Rissa is range of high performance floodlights with very small dimensions and integral
+                                    control gear.</p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" title="Product 2"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -542,12 +547,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-6.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>Branding 2</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Gavia</h4>
+                                <p>Counter edge-lit series under cabinet lights bring the light quality of Fulmar downlight
+                                    on to the counter top.</p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-6.jpg" title="Branding 2"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -556,12 +562,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-7.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>App 3</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Tucana</h4>
+                                <p>The fixture emits glare-free light directed primarily downwards. The opal glass provides
+                                    a comfortable and uniform illumination of the area around the fixture.</p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-7.jpg" title="App 3"
                                     data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -570,12 +577,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-8.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>Product 3</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Uria</h4>
+                                <p>Uria is a new floodlight series with innovative technology and design. It comes in 2
+                                    sizes with varying installation. </p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-8.jpg" title="Product 3"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -584,12 +592,13 @@
                             <img src="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" class="img-fluid"
                                 alt="">
                             <div class="portfolio-info">
-                                <h4>Branding 3</h4>
-                                <p>Lorem ipsum, dolor sit</p>
+                                <h4>Grebes</h4>
+                                <p>Ideal for any kitchen where multiple countertop appliances will be plugged in at once.
+                                </p>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" title="Branding 2"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="{{ route('portfolio') }}" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -603,89 +612,89 @@
         </section><!-- /Portfolio Section -->
 
         <!-- Team Section
-                <section id="team" class="team section">
+                    <section id="team" class="team section">
 
 
-                  <div class="container section-title" data-aos="fade-up">
-                    <h2>Team</h2>
-                    <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-                  </div>
-
-                  <div class="container">
-
-                    <div class="row gy-4">
-
-                      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                        <div class="team-member">
-                          <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                              <a href=""><i class="bi bi-twitter-x"></i></a>
-                              <a href=""><i class="bi bi-facebook"></i></a>
-                              <a href=""><i class="bi bi-instagram"></i></a>
-                              <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                          </div>
-                          <div class="member-info">
-                            <h4>Walter White</h4>
-                            <span>Chief Executive Officer</span>
-                          </div>
-                        </div>
+                      <div class="container section-title" data-aos="fade-up">
+                        <h2>Team</h2>
+                        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
                       </div>
 
-                      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-                        <div class="team-member">
-                          <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                              <a href=""><i class="bi bi-twitter-x"></i></a>
-                              <a href=""><i class="bi bi-facebook"></i></a>
-                              <a href=""><i class="bi bi-instagram"></i></a>
-                              <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                          </div>
-                          <div class="member-info">
-                            <h4>Sarah Jhonson</h4>
-                            <span>Product Manager</span>
-                          </div>
-                        </div>
-                      </div>
+                      <div class="container">
 
-                      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-                        <div class="team-member">
-                          <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                              <a href=""><i class="bi bi-twitter-x"></i></a>
-                              <a href=""><i class="bi bi-facebook"></i></a>
-                              <a href=""><i class="bi bi-instagram"></i></a>
-                              <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                          </div>
-                          <div class="member-info">
-                            <h4>William Anderson</h4>
-                            <span>CTO</span>
-                          </div>
-                        </div>
-                      </div>
+                        <div class="row gy-4">
 
-                      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-                        <div class="team-member">
-                          <div class="member-img">
-                            <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                              <a href=""><i class="bi bi-twitter-x"></i></a>
-                              <a href=""><i class="bi bi-facebook"></i></a>
-                              <a href=""><i class="bi bi-instagram"></i></a>
-                              <a href=""><i class="bi bi-linkedin"></i></a>
+                          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                            <div class="team-member">
+                              <div class="member-img">
+                                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                                </div>
+                              </div>
+                              <div class="member-info">
+                                <h4>Walter White</h4>
+                                <span>Chief Executive Officer</span>
+                              </div>
                             </div>
                           </div>
-                          <div class="member-info">
-                            <h4>Amanda Jepson</h4>
-                            <span>Accountant</span>
+
+                          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                            <div class="team-member">
+                              <div class="member-img">
+                                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                                </div>
+                              </div>
+                              <div class="member-info">
+                                <h4>Sarah Jhonson</h4>
+                                <span>Product Manager</span>
+                              </div>
+                            </div>
                           </div>
-                        </div>
-                      </div> End Team Member -->
+
+                          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+                            <div class="team-member">
+                              <div class="member-img">
+                                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                                </div>
+                              </div>
+                              <div class="member-info">
+                                <h4>William Anderson</h4>
+                                <span>CTO</span>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+                            <div class="team-member">
+                              <div class="member-img">
+                                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                                </div>
+                              </div>
+                              <div class="member-info">
+                                <h4>Amanda Jepson</h4>
+                                <span>Accountant</span>
+                              </div>
+                            </div>
+                          </div> End Team Member -->
 
         </div>
 
@@ -694,68 +703,68 @@
         </section><!-- /Team Section -->
 
         <!-- Pricing Section
-               <section id="pricing" class="pricing section light-background">
+                   <section id="pricing" class="pricing section light-background">
 
 
-                <div class="container section-title" data-aos="fade-up">
-                  <h2>Pricing</h2>
-                  <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-                </div>
-
-                <div class="container">
-
-                  <div class="row gy-4">
-
-                    <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
-                      <div class="pricing-item">
-                        <h3>Free Plan</h3>
-                        <h4><sup>$</sup>0<span> / month</span></h4>
-                        <ul>
-                          <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                          <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                          <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                          <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                          <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                        </ul>
-                        <a href="#" class="buy-btn">Buy Now</a>
-                      </div>
+                    <div class="container section-title" data-aos="fade-up">
+                      <h2>Pricing</h2>
+                      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
                     </div>
 
-                    <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
-                      <div class="pricing-item featured">
-                        <h3>Business Plan</h3>
-                        <h4><sup>$</sup>29<span> / month</span></h4>
-                        <ul>
-                          <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                          <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                          <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                          <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                          <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                        </ul>
-                        <a href="#" class="buy-btn">Buy Now</a>
+                    <div class="container">
+
+                      <div class="row gy-4">
+
+                        <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
+                          <div class="pricing-item">
+                            <h3>Free Plan</h3>
+                            <h4><sup>$</sup>0<span> / month</span></h4>
+                            <ul>
+                              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
+                              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
+                              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
+                              <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
+                              <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+                            </ul>
+                            <a href="#" class="buy-btn">Buy Now</a>
+                          </div>
+                        </div>
+
+                        <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
+                          <div class="pricing-item featured">
+                            <h3>Business Plan</h3>
+                            <h4><sup>$</sup>29<span> / month</span></h4>
+                            <ul>
+                              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
+                              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
+                              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
+                              <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
+                              <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+                            </ul>
+                            <a href="#" class="buy-btn">Buy Now</a>
+                          </div>
+                        </div>
+
+                        <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
+                          <div class="pricing-item">
+                            <h3>Developer Plan</h3>
+                            <h4><sup>$</sup>49<span> / month</span></h4>
+                            <ul>
+                              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
+                              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
+                              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
+                              <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
+                              <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+                            </ul>
+                            <a href="#" class="buy-btn">Buy Now</a>
+                          </div>
+                        </div>
+
                       </div>
+
                     </div>
 
-                    <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
-                      <div class="pricing-item">
-                        <h3>Developer Plan</h3>
-                        <h4><sup>$</sup>49<span> / month</span></h4>
-                        <ul>
-                          <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                          <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                          <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                          <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                          <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                        </ul>
-                        <a href="#" class="buy-btn">Buy Now</a>
-                      </div>
-                    </div>
-
-                  </div>
-
-                </div>
-
-              </section> /Pricing Section -->
+                  </section> /Pricing Section -->
         <!-- Faq Section -->
         <section id="faq" class="faq section">
 
