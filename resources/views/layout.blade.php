@@ -105,9 +105,8 @@
             <a href="#" target="_blank"><i class="bi bi-twitter-x"></i></a>
           </div>-->
             <div class="contact-info text-center my-4">
-                <p>Contact Us: +90 (212) 613 36 86 | info@novalux.com.tr</p>
-                <p>Address: Defterdar Mah. Otakçılar Cad. Has-On Ticaret Merkezi No:70/A
-                    Eyüp İstanbul / TURKEY</p>
+                <p>Contact Us: +971 55 877 9600 | info@bmaelectronic.com</p>
+                <p>Address: UAE Dubai</p>
             </div>
             <div class="copyright">
                 <span>Copyright</span> <strong class="px-1 sitename">BMA Lighting Solutions</strong> <span>© 2024 All

@@ -880,8 +880,7 @@
                                     data-aos="fade-up" data-aos-delay="200">
                                     <i class="bi bi-geo-alt"></i>
                                     <h3>Address</h3>
-                                    <p>Defterdar Mah. Otakçılar Cad. Has-On Ticaret Merkezi No:70/A
-                                        Eyüp İstanbul / TURKEY</p>
+                                    <p>UAE Dubai</p>
                                 </div>
                             </div><!-- End Info Item -->
 
@@ -890,7 +889,7 @@
                                     data-aos="fade-up" data-aos-delay="300">
                                     <i class="bi bi-telephone"></i>
                                     <h3>Call Us</h3>
-                                    <p>+90 (212) 613 36 86</p>
+                                    <p>+971 55 877 9600</p>
                                 </div>
                             </div><!-- End Info Item -->
 
@@ -899,8 +898,7 @@
                                     data-aos="fade-up" data-aos-delay="400">
                                     <i class="bi bi-envelope"></i>
                                     <h3>Email Us</h3>
-                                    <p>
-                                        info@novalux.com.tr</p>
+                                    <p>info@bmaelectronic.com</p>
                                 </div>
                             </div><!-- End Info Item -->
 
