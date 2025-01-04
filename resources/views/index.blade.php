@@ -14,11 +14,9 @@
                 <div class="row gy-4">
                     <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-in">
                         <h1>Illuminating Your World with Innovation</h1>
-                        <p>Discover cutting-edge, sustainable lighting solutions designed for beauty, functionality, and
-                            efficiency.
-                        </p>
+                        <p>As a proud agency of <strong>Novalux</strong>, we bring you cutting-edge, sustainable lighting solutions designed for beauty, functionality, and efficiency.</p>
                         <div class="d-flex">
-                            <a href="#about" class="btn-get-started">Explore More</a>
+                            <a href="https://novalux.com.tr/en" class="btn-get-started" target="_blank" rel="noopener noreferrer">Explore More</a>
                         </div>
                     </div>
                     <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="100">
@@ -26,6 +24,7 @@
                     </div>
                 </div>
             </div>
+            
 
         </section>
         <!-- /Hero Section -->
