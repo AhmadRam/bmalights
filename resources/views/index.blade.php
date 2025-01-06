@@ -12,15 +12,15 @@
 
             <div class="container">
                 <div class="row gy-4">
-                    <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-in">
+                    <div class="col-lg-8 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-in">
                         <h1>Illuminating Your World with Innovation</h1>
-                        <p>As a proud agency of <strong>Novalux</strong>, we bring you cutting-edge, sustainable lighting solutions designed for beauty, functionality, and efficiency.</p>
+                        <p>As a proud agency of <strong style="color: #fdc134">Novalux</strong>, we bring you cutting-edge, sustainable lighting solutions designed for beauty, functionality, and efficiency.</p>
                         <div class="d-flex">
                             <a href="https://novalux.com.tr/en" class="btn-get-started" target="_blank" rel="noopener noreferrer">Explore More</a>
                         </div>
                     </div>
-                    <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="100">
-                        <img src="assets/img/light1.jpg" class="img-fluid animated" alt="Lighting Solutions">
+                    <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="100">
+                        <img src="assets/img/logo-kirmizi.png" class="img-fluid animated " alt="Lighting Solutions">
                     </div>
                 </div>
             </div>
