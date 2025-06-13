@@ -9,8 +9,8 @@
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="{{ asset('assets/img/logo.png') }}" rel="icon">
-    <link href="{{ asset('assets/img/logo.png') }}" rel="touch-icon">
+    {{-- <link href="{{ asset('assets/img/logo.png') }}" rel="icon"> --}}
+    {{-- <link href="{{ asset('assets/img/logo.png') }}" rel="touch-icon"> --}}
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -46,7 +46,7 @@
             <a href="/" class="logo d-flex align-items-center me-auto">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
                 <!-- <img src="assets/img/logo.png" alt=""> -->
-                <img src="assets/img/logo.png" alt="BMA Lights">
+                {{-- <img src="assets/img/logo.png" alt="BMA Lights"> --}}
                 <h1 class="sitename">BMA Lights</h1>
                 <span>.</span>
             </a>
@@ -105,7 +105,7 @@
             <a href="#" target="_blank"><i class="bi bi-twitter-x"></i></a>
           </div>-->
             <div class="contact-info text-center my-4">
-                <p>Contact Us: +971 55 877 9600 | info@bmaelectronic.com</p>
+                <p>Contact Us: +971 50 408 8220 | info@bmaelectronic.com</p>
                 <p>Address: UAE Dubai</p>
             </div>
             <div class="copyright">

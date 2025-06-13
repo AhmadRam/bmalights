@@ -22,7 +22,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="100">
-                        <img src="assets/img/logo-kirmizi.png" class="img-fluid animated " alt="Lighting Solutions">
+                        {{-- <img src="assets/img/logo-kirmizi.png" class="img-fluid animated " alt="Lighting Solutions"> --}}
                     </div>
                 </div>
             </div>
@@ -72,22 +72,31 @@
             }
           </script>
                     <div class="swiper-wrapper align-items-center">
-                        <div class="swiper-slide"><img src="assets/img/clients/client-1.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-2.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-3.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-4.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-5.jpg" class="img-fluid"
+
+                        <div class="swiper-slide"><a href="https://ipsound.com/"><img style="max-width: 250px !important"
+                                    src="assets/img/clients/client-9.png" class="img-fluid" alt=""></a></div>
+
+                        <div class="swiper-slide"></div>
+
+                        <div class="swiper-slide"><a href="https://ip-screens.com/"><img style="max-width: 250px !important"
+                                    src="https://ip-screens.com/assets/images/logo.png" class="img-fluid"
+                                    alt=""></a></div>
+
+                        <div class="swiper-slide"></div>
+
+                        <div class="swiper-slide"><a href="https://ipsprosys.com/"><img style="max-width: 250px !important"
+                                    src="assets/img/clients/client-10.png" class="img-fluid" alt=""></a></div>
+
+                        <div class="swiper-slide"></div>
+
+                        {{-- <div class="swiper-slide"><img src="assets/img/clients/client-5.jpg" class="img-fluid"
                                 alt=""></div>
                         <div class="swiper-slide"><img src="assets/img/clients/client-6.jpg" class="img-fluid"
                                 alt=""></div>
                         <div class="swiper-slide"><img src="assets/img/clients/client-7.jpg" class="img-fluid"
                                 alt=""></div>
                         <div class="swiper-slide"><img src="assets/img/clients/client-8.jpg" class="img-fluid"
-                                alt=""></div>
+                                alt=""></div> --}}
                     </div>
                 </div>
 
@@ -196,7 +205,7 @@
                 <div class="row gy-4">
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="service-item">
-                            
+
                             <h3><strong style="color: #fdc134">World-Class Features</strong></h3>
                             <p>Experience groundbreaking conferences including THINKLIGHT, Smart Building Summit,
                                 InSpotLight, and industry-led workshops.</p>
@@ -205,7 +214,7 @@
 
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="service-item">
-                           
+
                             <h3><strong style="color: #fdc134">Global Networking</strong></h3>
                             <p>Connect with industry leaders, government bodies, and professionals from over 90 countries in
                                 one dynamic platform.</p>
@@ -214,7 +223,7 @@
 
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
                         <div class="service-item">
-                           
+
                             <h3><strong style="color: #fdc134">Latest Innovations</strong></h3>
                             <p>Discover cutting-edge lighting and building technology solutions from 450+ exhibitors
                                 showcasing their latest products.</p>
@@ -223,7 +232,7 @@
                 </div>
 
                 <!-- CTA Button -->
-                <div class="text-center mt-5" data-aos="fade-up" data-aos-delay="500">
+                {{-- <div class="text-center mt-5" data-aos="fade-up" data-aos-delay="500">
                     <div class="d-flex justify-content-center gap-3">
                         <h5 href="https://registration.infosalons.ae/LIGHTME25DU/Visitor/MesseFrankfurt/Welcome?utm_source=visprom&utm_medium=website&utm_campaign=general"
                             style="color: #fdc134">Register to Visit</h5>
@@ -234,7 +243,7 @@
                         rel="noopener noreferrer">Dubai World Trade Centre | 2025</a><br>
                         Co-located with Intersec - The world's leading safety, security & fire protection event
                     </h3>
-                </div>
+                </div> --}}
 
             </div>
         </section><!-- End Event CTA Section -->
@@ -697,89 +706,89 @@
         </section><!-- /Portfolio Section -->
 
         <!-- Team Section
-                        <section id="team" class="team section">
+                                                    <section id="team" class="team section">
 
 
-                          <div class="container section-title" data-aos="fade-up">
-                            <h2>Team</h2>
-                            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-                          </div>
+                                                      <div class="container section-title" data-aos="fade-up">
+                                                        <h2>Team</h2>
+                                                        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                                                      </div>
 
-                          <div class="container">
+                                                      <div class="container">
 
-                            <div class="row gy-4">
+                                                        <div class="row gy-4">
 
-                              <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                                <div class="team-member">
-                                  <div class="member-img">
-                                    <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                                    <div class="social">
-                                      <a href=""><i class="bi bi-twitter-x"></i></a>
-                                      <a href=""><i class="bi bi-facebook"></i></a>
-                                      <a href=""><i class="bi bi-instagram"></i></a>
-                                      <a href=""><i class="bi bi-linkedin"></i></a>
-                                    </div>
-                                  </div>
-                                  <div class="member-info">
-                                    <h4>Walter White</h4>
-                                    <span>Chief Executive Officer</span>
-                                  </div>
-                                </div>
-                              </div>
+                                                          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                                                            <div class="team-member">
+                                                              <div class="member-img">
+                                                                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                                                                <div class="social">
+                                                                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                                                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                                                                </div>
+                                                              </div>
+                                                              <div class="member-info">
+                                                                <h4>Walter White</h4>
+                                                                <span>Chief Executive Officer</span>
+                                                              </div>
+                                                            </div>
+                                                          </div>
 
-                              <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-                                <div class="team-member">
-                                  <div class="member-img">
-                                    <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                                    <div class="social">
-                                      <a href=""><i class="bi bi-twitter-x"></i></a>
-                                      <a href=""><i class="bi bi-facebook"></i></a>
-                                      <a href=""><i class="bi bi-instagram"></i></a>
-                                      <a href=""><i class="bi bi-linkedin"></i></a>
-                                    </div>
-                                  </div>
-                                  <div class="member-info">
-                                    <h4>Sarah Jhonson</h4>
-                                    <span>Product Manager</span>
-                                  </div>
-                                </div>
-                              </div>
+                                                          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                                                            <div class="team-member">
+                                                              <div class="member-img">
+                                                                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                                                                <div class="social">
+                                                                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                                                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                                                                </div>
+                                                              </div>
+                                                              <div class="member-info">
+                                                                <h4>Sarah Jhonson</h4>
+                                                                <span>Product Manager</span>
+                                                              </div>
+                                                            </div>
+                                                          </div>
 
-                              <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-                                <div class="team-member">
-                                  <div class="member-img">
-                                    <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                                    <div class="social">
-                                      <a href=""><i class="bi bi-twitter-x"></i></a>
-                                      <a href=""><i class="bi bi-facebook"></i></a>
-                                      <a href=""><i class="bi bi-instagram"></i></a>
-                                      <a href=""><i class="bi bi-linkedin"></i></a>
-                                    </div>
-                                  </div>
-                                  <div class="member-info">
-                                    <h4>William Anderson</h4>
-                                    <span>CTO</span>
-                                  </div>
-                                </div>
-                              </div>
+                                                          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+                                                            <div class="team-member">
+                                                              <div class="member-img">
+                                                                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                                                                <div class="social">
+                                                                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                                                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                                                                </div>
+                                                              </div>
+                                                              <div class="member-info">
+                                                                <h4>William Anderson</h4>
+                                                                <span>CTO</span>
+                                                              </div>
+                                                            </div>
+                                                          </div>
 
-                              <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-                                <div class="team-member">
-                                  <div class="member-img">
-                                    <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                                    <div class="social">
-                                      <a href=""><i class="bi bi-twitter-x"></i></a>
-                                      <a href=""><i class="bi bi-facebook"></i></a>
-                                      <a href=""><i class="bi bi-instagram"></i></a>
-                                      <a href=""><i class="bi bi-linkedin"></i></a>
-                                    </div>
-                                  </div>
-                                  <div class="member-info">
-                                    <h4>Amanda Jepson</h4>
-                                    <span>Accountant</span>
-                                  </div>
-                                </div>
-                              </div> End Team Member -->
+                                                          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+                                                            <div class="team-member">
+                                                              <div class="member-img">
+                                                                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                                                                <div class="social">
+                                                                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                                                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                                                                </div>
+                                                              </div>
+                                                              <div class="member-info">
+                                                                <h4>Amanda Jepson</h4>
+                                                                <span>Accountant</span>
+                                                              </div>
+                                                            </div>
+                                                          </div> End Team Member -->
 
         </div>
 
@@ -788,68 +797,68 @@
         </section><!-- /Team Section -->
 
         <!-- Pricing Section
-                       <section id="pricing" class="pricing section light-background">
+                                                   <section id="pricing" class="pricing section light-background">
 
 
-                        <div class="container section-title" data-aos="fade-up">
-                          <h2>Pricing</h2>
-                          <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-                        </div>
+                                                    <div class="container section-title" data-aos="fade-up">
+                                                      <h2>Pricing</h2>
+                                                      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                                                    </div>
 
-                        <div class="container">
+                                                    <div class="container">
 
-                          <div class="row gy-4">
+                                                      <div class="row gy-4">
 
-                            <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
-                              <div class="pricing-item">
-                                <h3>Free Plan</h3>
-                                <h4><sup>$</sup>0<span> / month</span></h4>
-                                <ul>
-                                  <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                                  <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                                  <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                                </ul>
-                                <a href="#" class="buy-btn">Buy Now</a>
-                              </div>
-                            </div>
+                                                        <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
+                                                          <div class="pricing-item">
+                                                            <h3>Free Plan</h3>
+                                                            <h4><sup>$</sup>0<span> / month</span></h4>
+                                                            <ul>
+                                                              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
+                                                              <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
+                                                              <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+                                                            </ul>
+                                                            <a href="#" class="buy-btn">Buy Now</a>
+                                                          </div>
+                                                        </div>
 
-                            <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
-                              <div class="pricing-item featured">
-                                <h3>Business Plan</h3>
-                                <h4><sup>$</sup>29<span> / month</span></h4>
-                                <ul>
-                                  <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                                </ul>
-                                <a href="#" class="buy-btn">Buy Now</a>
-                              </div>
-                            </div>
+                                                        <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
+                                                          <div class="pricing-item featured">
+                                                            <h3>Business Plan</h3>
+                                                            <h4><sup>$</sup>29<span> / month</span></h4>
+                                                            <ul>
+                                                              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+                                                            </ul>
+                                                            <a href="#" class="buy-btn">Buy Now</a>
+                                                          </div>
+                                                        </div>
 
-                            <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
-                              <div class="pricing-item">
-                                <h3>Developer Plan</h3>
-                                <h4><sup>$</sup>49<span> / month</span></h4>
-                                <ul>
-                                  <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                                  <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                                </ul>
-                                <a href="#" class="buy-btn">Buy Now</a>
-                              </div>
-                            </div>
+                                                        <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
+                                                          <div class="pricing-item">
+                                                            <h3>Developer Plan</h3>
+                                                            <h4><sup>$</sup>49<span> / month</span></h4>
+                                                            <ul>
+                                                              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
+                                                              <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+                                                            </ul>
+                                                            <a href="#" class="buy-btn">Buy Now</a>
+                                                          </div>
+                                                        </div>
 
-                          </div>
+                                                      </div>
 
-                        </div>
+                                                    </div>
 
-                      </section> /Pricing Section -->
+                                                  </section> /Pricing Section -->
         <!-- Faq Section -->
         <section id="faq" class="faq section">
 
@@ -974,7 +983,7 @@
                                     data-aos="fade-up" data-aos-delay="300">
                                     <i class="bi bi-telephone"></i>
                                     <h3>Call Us</h3>
-                                    <p>+971 55 877 9600</p>
+                                    <p>+971 50 408 8220</p>
                                 </div>
                             </div><!-- End Info Item -->
 
